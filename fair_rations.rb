@@ -1,0 +1,3 @@
+def fairRations(B)
+    
+end
